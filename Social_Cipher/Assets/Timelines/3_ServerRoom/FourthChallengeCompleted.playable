@@ -10733,7 +10733,7 @@ MonoBehaviour:
   m_Name: CutsceneTextClip(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)(Clone)
   m_EditorClassIdentifier: 
   _template:
-    _text: You are hereby promoted to COO of HackOp Offices!
+    _text: You are hereby promoted to COO of the University!
 --- !u!114 &7692798170206178476
 MonoBehaviour:
   m_ObjectHideFlags: 1
